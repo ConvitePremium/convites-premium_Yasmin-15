@@ -49,8 +49,8 @@ window.CONFIG = {
     whatsapp: true,
     localizacao: true,
     presentes: true,
-    dresscode: true,
-    manual: true,
+    dresscode: false,
+    manual: false,
     contagem: false
   },
 
